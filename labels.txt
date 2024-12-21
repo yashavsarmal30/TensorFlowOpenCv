@@ -1,0 +1,3 @@
+0 IdentityCard
+1 Calculator 
+2 MobilePhone
