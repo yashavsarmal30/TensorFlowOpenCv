@@ -26,7 +26,7 @@ Ensure the following tools and libraries are installed:
 ### 1. Clone the Repository
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/converted_keras.git
+git clone https://github.com/yashavsarmal30/converted_keras.git
 cd converted_keras
 ```
 
