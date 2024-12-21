@@ -40,11 +40,7 @@ pip install tensorflow opencv-python numpy
 Ensure the following files are in the project directory:
 - **`keras_Model.h5`**: Pre-trained Keras model file.
 - **`labels.txt`**: Text file containing class names, one per line.
-
-### 4. Add the Example Image
-Save the provided `image.png` file in the root directory of the project.
-
----
+-
 
 ## Usage
 
