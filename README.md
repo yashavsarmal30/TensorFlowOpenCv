@@ -1,6 +1,6 @@
 
 # Teachable Machine Image Classifier
-
+![]((https://i.postimg.cc/L536LV3q/Screenshot-2024-12-21-150941.png))
 This repository demonstrates a Keras-based image classifier trained using Google’s Teachable Machine. It uses a pre-trained model to classify images captured via a webcam into categories such as Identity Cards, Calculators, and Mobile Phones.
 
 
